@@ -3,7 +3,7 @@
 ### 👨‍💻 À propos de moi
 Je suis un développeur passionné par l'architecture moderne et le design **Utility-First**. Actuellement, je travaille sur la refonte de l'**Intranet CIREST 2025** en utilisant une approche inspirée de **Laravel**.
 
-- 🔭 Je travaille actuellement sur : **Intranet CIREST V1**
+- 🔭 Je travaille actuellement sur : **plusieur projet**
 - 🎨 Spécialité : Backend PHP & Design avec Tailwind/Bootstrap
 - ⚡ Fun fact : J'adore transformer des vieux scripts monolithiques en structures propres et scalables.
 
