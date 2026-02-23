@@ -36,7 +36,7 @@ Passionné par l'architecture logicielle et l'intelligence artificielle, je suis
 
 ## 🚀 Projets & Méthodologie
 
-### 🏛️ Intranet CIREST 2026 (Projet d'Apprentissage)
+### 🏛️ Divers projet
 *Application concrète des méthodes CDA sur un outil de gestion réel.*
 - **Analyse & Conception** : Étude du besoin, maquettage sur **Figma** et planification sur **Trello**.
 - **Réalisation** : Mise en place d'un système de routage dynamique en PHP et intégration d'assistants intelligents.
