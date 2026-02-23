@@ -1,16 +1,16 @@
 # Salut, moi c'est Hervé Madou ! 👋 🚀
 
-### 👨‍💻 AI Systems Architect & Concepteur Développeur d'Applications (CDA)
-Expert en ingénierie logicielle et **Conception de Systèmes Neuronaux**. Mon approche repose sur une maîtrise totale de la **Conduite de Projet Agile** : de la conception UI/UX sur **Figma** à l'orchestration technique sous **Symfony 7** et **IA**.
+### 👨‍💻 Apprenti Concepteur Développeur d'Applications (CDA)
+Passionné par l'architecture logicielle et l'intelligence artificielle, je suis actuellement en formation pour devenir **CDA**. Je mets mes compétences en pratique sur la refonte de l'**Intranet CIREST 2026**, en explorant comment l'IA peut transformer les outils de gestion classiques.
 
-- 🤖 **Intelligence Artificielle** : Expertise en **Machine Learning**, réseaux de neurones et intégration d'agents IA autonomes.
-- 🏛 **Ingénierie & Architecture** : Spécialiste PHP (**Symfony 7** & **Laravel**) pour des backends scalables.
-- 🎨 **Conception UI/UX** : Prototypage haute fidélité et Design System sous **Figma**.
-- 📈 **Gestion de Projet Agile** : Pilotage de flux de travail via **Trello** et méthodologies itératives.
+- 🎓 **Formation** : Titre professionnel de Concepteur Développeur d'Applications (CDA) en cours.
+- 🤖 **Spécialisation IA** : Apprentissage du **Machine Learning**, des **réseaux neuronaux** (MLP, CNN) et de l'orchestration d'agents.
+- 🏛 **Ingénierie Web** : Développement de solutions robustes avec **Symfony 7** et **Laravel**.
+- 🎨 **Conception & Design** : Prototypage UI/UX sur **Figma** et organisation de projet via **Trello**.
 
 ---
 
-### 🛠 Mon Stack Technique Complet
+### 🛠 Mon Stack Technique (En pleine évolution)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
@@ -21,32 +21,34 @@ Expert en ingénierie logicielle et **Conception de Systèmes Neuronaux**. Mon a
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Neural_Networks-000000?style=for-the-badge&logo=brainly&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/symfony_7-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projets & Méthodologie CDA
+## 🚀 Projets & Méthodologie
 
-### 🏛️ Intranet CIREST 2026
-*Gestion de projet de A à Z selon les standards CDA.*
-- **Phase de Conception** : Création des user flows et maquettes interactives sur **Figma**.
-- **Gestion Agile** : Organisation des sprints et backlog produit sur **Trello**.
-- **Développement** : Architecture MVC sous Laravel avec intégration d'agents IA pour l'automatisation administrative.
+### 🏛️ Intranet CIREST 2026 (Projet d'Apprentissage)
+*Application concrète des méthodes CDA sur un outil de gestion réel.*
+- **Analyse & Conception** : Étude du besoin, maquettage sur **Figma** et planification sur **Trello**.
+- **Réalisation** : Mise en place d'un système de routage dynamique en PHP et intégration d'assistants intelligents.
+- **Workflow** : Utilisation de **Docker**, **Composer** et **Node.js** pour un environnement de dev propre.
 
-### 🧠 Deep Learning & Python
-- Analyse prédictive et traitement de données complexes via des architectures neuronales.
-- Développement de modèles via **Scikit-learn** et **TensorFlow**.
+### 🧠 Intelligence Artificielle & Machine Learning
+- Travaux sur les **réseaux neuronaux** et la classification de données via **Python**.
+- Expérimentation avec des architectures multi-agents pour l'automatisation.
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 📊 Statistiques d'Activité
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hmadou97470&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats de Madou" height="165" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hmadou97470&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Langages" height="165" />
