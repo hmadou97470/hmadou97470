@@ -16,16 +16,5 @@ Je suis un développeur passionné par l'architecture moderne et le design **Uti
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📊 Mes Statistiques GitHub
-
-![Stats de Madou](https://github-readme-stats.vercel.app/api?username=hmadou97470&show_icons=true&theme=radical&hide_border=true)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=hmadou97470&layout=compact&theme=radical&hide_border=true)
-
-### 🏆 Mes Trophées
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=hmadou97470&theme=onestar&no-bg=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 📫 Me contacter
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](VOTRE_LIEN_LINKEDIN_ICI)
