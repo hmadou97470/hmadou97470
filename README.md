@@ -1,9 +1,9 @@
-# Salut, moi c'est Hervé Madou ! 👋 🚀
+# Salut, moi c'est JEAN-HERVE MADOU ! 👋 🚀
 
-### 👨‍💻 Apprenti Concepteur Développeur d'Applications (CDA)
-Passionné par l'architecture logicielle et l'intelligence artificielle, je suis actuellement en formation pour devenir **CDA**. Je mets mes compétences en pratique sur la refonte de l'**Intranet CIREST 2026**, en explorant comment l'IA peut transformer les outils de gestion classiques.
+### 👨‍💻 Apprenti Concepteur Développeur d'Applications à la réunion (CDA)
+Passionné par l'architecture logicielle et l'intelligence artificielle, je suis actuellement en formation pour devenir **CDA**. Je mets mes compétences en pratique sur divers projet, en explorant comment l'IA peut transformer les outils de gestion classiques.
 
-- 🎓 **Formation** : Titre professionnel de Concepteur Développeur d'Applications (CDA) en cours.
+- 🎓 **Formation** : Titre professionnel de Concepteur Développeur d'Applications (CDA) en cours (EXPERNET 2024-2026).
 - 🤖 **Spécialisation IA** : Apprentissage du **Machine Learning**, des **réseaux neuronaux** (MLP, CNN) et de l'orchestration d'agents.
 - 🏛 **Ingénierie Web** : Développement de solutions robustes avec **Symfony 7** et **Laravel**.
 - 🎨 **Conception & Design** : Prototypage UI/UX sur **Figma** et organisation de projet via **Trello**.
