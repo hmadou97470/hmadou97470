@@ -1,9 +1,7 @@
 # Salut, moi c'est Hervé Madou ! 👋 🚀
 
-### 👨‍💻 Développeur Fullstack PHP & Mobile Flutter
-Je construis actuellement l'**Intranet CIREST 2026**, un projet basé sur une architecture modulaire inspirée de **Laravel**, tout en développant des solutions mobiles avec **Flutter**.
+### 👨‍💻 CDA / DEV FULLSTACK.
 
-- 🔭 Projet actuel : **Refonte Intranet V1** & **Apps Mobiles Flutter**
 - 🎨 Mon style : Clean Code, Glassmorphism & Performance
 - ⚡ Fun fact : Je préfère passer 1h à automatiser une tâche de 5 minutes.
 
