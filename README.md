@@ -1,9 +1,9 @@
 # Salut, moi c'est Hervé Madou ! 👋 🚀
 
-### 👨‍💻 Développeur Fullstack PHP
-Je construis actuellement l'**Intranet CIREST 2026**, un projet ambitieux basé sur une architecture modulaire inspirée de **Laravel** et un design **Utility-First**.
+### 👨‍💻 Développeur Fullstack PHP & Mobile Flutter
+Je construis actuellement l'**Intranet CIREST 2026**, un projet basé sur une architecture modulaire inspirée de **Laravel**, tout en développant des solutions mobiles avec **Flutter**.
 
-- 🔭 Je travaille sur : **Refonte Intranet V1**
+- 🔭 Projet actuel : **Refonte Intranet V1** & **Apps Mobiles Flutter**
 - 🎨 Mon style : Clean Code, Glassmorphism & Performance
 - ⚡ Fun fact : Je préfère passer 1h à automatiser une tâche de 5 minutes.
 
@@ -12,16 +12,26 @@ Je construis actuellement l'**Intranet CIREST 2026**, un projet ambitieux basé 
 ### 🛠 Mon Stack Technique
 <p align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📊 Mes Statistiques GitHub
+---
 
+### 📊 Mes Statistiques GitHub
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hmadou97470&show_icons=true&theme=radical&hide_border=true" alt="Stats" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hmadou97470&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats de Madou" height="165" />
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hmadou97470&layout=compact&theme=radical&hide_border=true" alt="Langages" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hmadou97470&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Langages les plus utilisés" height="165" />
+</p>
+
+---
+
+### 📫 Me contacter
+<p align="left">
+  <a href="https://www.linkedin.com/in/Jean-Hervé MADOU">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
