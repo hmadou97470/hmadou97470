@@ -1,7 +1,8 @@
-# Salut, moi c'est JEAN-HERVE MADOU ! 👋 🚀
+# Bonjour moi c'est JHM Jean-Hervé MADOU ! 👋 🚀
 
 ### 👨‍💻 Apprenti Concepteur Développeur d'Applications à la réunion (CDA)
 Passionné par l'architecture logicielle et l'intelligence artificielle, je suis actuellement en formation pour devenir **CDA**. Je mets mes compétences en pratique sur divers projet, en explorant comment l'IA peut transformer les outils de gestion classiques.
+Résident à l'ile de la réunion
 
 - 🎓 **Formation** : Titre professionnel de Concepteur Développeur d'Applications (CDA) en cours (EXPERNET 2024-2026).
 - 🤖 **Spécialisation IA** : Apprentissage du **Machine Learning**, des **réseaux neuronaux** (MLP, CNN) et de l'orchestration d'agents.
