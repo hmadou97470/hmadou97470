@@ -1,6 +1,7 @@
 # Bonjour moi c'est JHM Jean-Hervé MADOU ! 👋 🚀
 
-### 👨‍💻 Apprenti Concepteur Développeur d'Applications à la réunion (CDA)
+Concepteur développeur d'application 
+Apprenti DPI a Expernet 
 Passionné par l'architecture logicielle et l'intelligence artificielle, je suis actuellement en formation pour devenir **CDA**. Je mets mes compétences en pratique sur divers projet, en explorant comment l'IA peut transformer les outils de gestion classiques.
 Résident à l'ile de la réunion
 
