@@ -6,7 +6,7 @@ Basé à l'Île de La Réunion, je suis actuellement en formation pour obtenir l
 
 - 🎓 **Formation :** Titre professionnel CDA en cours (Expernet, 2024-2026).
 - 🤖 **Spécialisation IA :** Apprentissage du Machine Learning, des réseaux de neurones (MLP, CNN) et de l'orchestration d'agents.
-- 🏛 **Ingénierie Web :** Développement d'applications robustes et évolutives avec **Symfony 7** et **Laravel**.
+- 🏛 **Ingénierie Web :** Développement d'applications robustes et évolutives avec **Symfony ** et **Laravel**.
 - 🎨 **Conception & Gestion :** Prototypage UI/UX sur **Figma** et gestion de projet via **Trello** (Méthodologies Agiles).
 
 ---
